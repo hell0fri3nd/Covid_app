@@ -24,22 +24,16 @@ script watch`.
 
 With the Spring Data REST structure, the following dependencies were added:
 
-- Rest Repositories
-    Expose data repositories over REST via Spring Data REST.
-- Thymeleaf
-    A server-side Java template engine for web environments. Allows HTML to be correctly
+- Rest Repositories: Expose data repositories over REST via Spring Data REST.
+- Thymeleaf: A server-side Java template engine for web environments. Allows HTML to be correctly
     displayed in browsers and as static prototypes.
-- Spring Data JPA
-    Persist data in SQL stores with Java Persistence API using Spring Data.
-- H2 Database
-    Provides a fast in-memory database that supports JDBC API.
+- Spring Data JPA: Persist data in SQL stores with Java Persistence API using Spring Data.
+- H2 Database: Provides a fast in-memory database that supports JDBC API.
 
 To build a nice interface with React, two plugins were used mainly:
 
-- Material UI
-    React components focused on layout and usage (like Google)
-- DevExtreme Reactive
-    React components based on Material UI focused on data display
+- Material UI: React components focused on layout and usage
+- DevExtreme Reactive: React components based on Material UI focused on data display
 
 Versions:
 
@@ -48,3 +42,5 @@ Versions:
 - Node 12.16. 3
 - Npm 6. 14.
 - React 16.5.
+
+(LICENSE: https://js.devexpess.com/EULAs/DevExtremeNonCommercial/)
