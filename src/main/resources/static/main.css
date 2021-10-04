@@ -1,0 +1,30 @@
+
+td, th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+#toolbar {
+    padding-right: 24px;
+    background-color: rgba(33,33,33,0.08);
+}
+#toolbarIcon {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 8px;
+}
+#menuButton {
+    margin-right: 36px;
+}
+#menuButtonHidden{
+    display: none;
+}
+#title {
+    flex-grow: 1;
+}
+#container {
+    height: 100vh;
+    background-color: #999999;
+}
