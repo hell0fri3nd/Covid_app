@@ -1,6 +1,6 @@
 # CovidApp  - Reactjs and Spring Boot application
 
-Application submitted for Software System Architecture course at @unibz
+Application submitted for Software System Architecture course at @Unibz
 
 ### 1 OVERVIEW
 
